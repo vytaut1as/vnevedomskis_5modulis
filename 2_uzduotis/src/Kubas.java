@@ -7,8 +7,6 @@ public class Kubas {
 		Scanner sc = new Scanner(System.in);
 		double kub=0d;
 		double rut=0d;
-		double vand=0d;
-		double v=0d;
 		
 		System.out.println("Įveskite kubo kraštinės ilgį");
 		kub = sc.nextDouble();
