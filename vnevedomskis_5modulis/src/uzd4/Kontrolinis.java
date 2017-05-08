@@ -1,3 +1,5 @@
+package uzd4;
+
 
 public class Kontrolinis {
 

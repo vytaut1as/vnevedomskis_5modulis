@@ -1,3 +1,5 @@
+package uzd1;
+
 import java.util.Scanner;
 
 public class Apelsinas {
