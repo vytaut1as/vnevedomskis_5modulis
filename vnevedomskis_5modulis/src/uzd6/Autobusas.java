@@ -28,6 +28,7 @@ public class Autobusas {
 		System.out.println("Kiek laiko autobusas važiavo iš Panevėžio į Rygą: ");
 		h4= sc.nextInt()*60;
 		h4+= sc.nextInt();
+		sc.close();
 		
 		atvykoRyga();
 		
