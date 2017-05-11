@@ -1,0 +1,6 @@
+-5 6 9 14 10
+K K A D P K P D A D
+2 3 6 7 12
+P A P A K D K D A P P A
+5 5 -1 -1 2
+P P
